@@ -1,5 +1,4 @@
- E-Commerce Sales Dashboard (PowerBI)
-This project presents an interactive E-Commerce Sales Dashboard built using Power BI, designed to analyze and visualize key business metrics such as sales, profit, customer behavior, and product performance.
+ E-Commerce Sales Dashboard (PowerBI) provides an interactive E-Commerce Sales Dashboard built using Power BI, designed to analyze and visualize key business metrics such as sales, profit, customer behavior, and product performance.
 
 Objective: 
 To convert a raw ecommerce data into a visually appealling dashboard that provides insights about the sales, profits and product performance.
